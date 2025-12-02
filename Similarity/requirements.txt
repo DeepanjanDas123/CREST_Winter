@@ -1,0 +1,8 @@
+pandas>=2.0.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+faiss-cpu>=1.7.0
+scikit-learn>=1.3.0
+python-dotenv>=1.0.0    # optional if .env is kept for other things
+pydantic>=2.5.0
+ollama>=0.1.0 
